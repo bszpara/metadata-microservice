@@ -1,2 +1,2 @@
 # metadata-microservice
-Small and fast file analiser
+Small and fast file analiser web service.
